@@ -1,5 +1,6 @@
 <div align="center"><img src="book-src/images/brand.png" style="width: 512px;"></div><br>
 
+**WIP & NO LONGER MAINTAINED**
 
 **Tornado Cats** is a book for learning zero-knowledge applications and decentralized mixing by creating a simple mixer protocol based on Tornado Cash. This is still under construction and is currently available only in Japanese.
 
